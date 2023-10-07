@@ -61,16 +61,16 @@
             <!-- END: Delete Confirmation Modal -->
         </div>
         <!-- END: Content -->
-        <script>
-            document.addEventListener('livewire:initialized', () => {
-               @this.on('OpenEditModal', (event) => {
-                   //
-                   console.log("Mark")
+<script>
+    document.addEventListener('livewire:initialized', () => {
+       @this.on('OpenEditModal', (event) => {
+           //
+           console.log("Mark")
 
-               });
-            });
+       });
+    });
 
 
-        </script>
+</script>
 
 </div>

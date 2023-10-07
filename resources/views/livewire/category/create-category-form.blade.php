@@ -21,7 +21,8 @@
                     <div class="mt-2 text-slate-500">
                         Do you really want to delete these records?
                         <br>
-                        This process cannot be undone.
+                        This process cannot be undone.dsa
+
                     </div>
                 </div>
                 <div class="px-5 pb-8 text-center">
